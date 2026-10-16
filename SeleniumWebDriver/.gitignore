@@ -1,0 +1,96 @@
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+out/
+[Ll]og/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide
+
+## Visual Studio generated files
+Generated\ Files/
+*.cache
+*.ilk
+*.meta
+*.pdb
+*.obj
+*.iobj
+*.ipch
+*.pch
+*.sdf
+*.opensdf
+*.suo
+*.tmp_proj
+*.pidb
+*.svclog
+*.prof
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+.nuget/
+
+## Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.coverage
+*.coveragexml
+
+## .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.runtimeconfig.dev.json
+
+## VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+## Logs
+*.log
+
+## Secrets and local configuration
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+secrets.json
+
+## Publish output
+publish/
+
+## Temporary files
+*.bak
+*.swp
+*.orig
+*~
